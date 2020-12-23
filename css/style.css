@@ -1,0 +1,17 @@
+#container{
+    display: flex;
+    flex-direction: column;
+}
+
+.headers, .header-top {
+    font-weight: bolder;
+}
+
+table{
+    width: 25%;
+    margin: auto;
+}
+
+td{
+    font-size: 1.35em;
+}
